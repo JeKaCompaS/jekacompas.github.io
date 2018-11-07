@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "icon": "info",
+    "title": "Событие 1",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet dolor volutpat, condimentum erat sit amet, mollis mi. Nam.",
+    "dateTime": "2018-11-01",
+    "userid": 1,
+    "useravatar": "/images/avatar.svg",
+    "userlogin": "1@mail.com"
+  },
+  {
+    "id": 2,
+    "icon": "warning",
+    "title": "Событие 2",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet dolor volutpat, condimentum erat sit amet, mollis mi. Nam.",
+    "dateTime": "2018-09-01",
+    "userid": 1,
+    "useravatar": "/images/avatar.svg",
+    "userlogin": "1@mail.com"
+  },
+  {
+    "id": 3,
+    "icon": "attach_money",
+    "title": "Событие 3",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet dolor volutpat, condimentum erat sit amet, mollis mi. Nam.",
+    "dateTime": "2018-11-02",
+    "userid": 2,
+    "useravatar": "/images/avatar.svg",
+    "userlogin": "2@mail.com"
+  }
+]
